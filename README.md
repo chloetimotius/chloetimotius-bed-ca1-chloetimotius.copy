@@ -1,2 +1,2 @@
-# chloetimotius-bed-ca1-chloetimotius.copy
-this is a copy of the private repository
+# Starter Repository for Assignment
+You are required to build your folder structures for your project.
